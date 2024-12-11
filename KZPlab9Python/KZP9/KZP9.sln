@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KZP9", "KZP9\KZP9.pyproj", "{AAC76F37-8C89-4A6A-8400-57CE21C67EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC76F37-8C89-4A6A-8400-57CE21C67EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC76F37-8C89-4A6A-8400-57CE21C67EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D428A8-5E8C-45A7-ADDD-298819E88BAF}
+	EndGlobalSection
+EndGlobal
